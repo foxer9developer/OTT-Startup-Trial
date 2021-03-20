@@ -1,2 +1,2 @@
 # OTT-Startup-Trial
-a test repo for the netflix clone(OTT)
+A netflix clone built on react-JS
